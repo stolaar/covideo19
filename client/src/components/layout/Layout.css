@@ -1,0 +1,18 @@
+.user-item {
+  padding: 7px;
+  border: 1px solid #d3d3d3;
+  margin: 4px;
+}
+
+.user-item:hover {
+  background: lightblue;
+  color: white;
+  cursor: pointer;
+}
+
+.users-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin-top: 10px;
+  text-align: center !important;
+}
